@@ -1,0 +1,6 @@
+*.pyc
+output
+__pycache__
+
+f1.egg-info
+f1/cache
